@@ -2,6 +2,7 @@
 
 #include<bits/stdc++.h>
 using namespace std;
+#include<vector>
 class Solution {
 public:
     int lps(string &s)
