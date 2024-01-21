@@ -1,6 +1,7 @@
 /* https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/description/ */
 #include<bits/stdc++.h>
 using namespace std;
+#include<vector>
 class Solution {
 public:
       bool isSubsequence(string sub, string super){
